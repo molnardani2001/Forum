@@ -1,0 +1,61 @@
+{
+    "1" : {
+        "id" : 1,
+        "name" : "FC Barcelona",
+        "city" : "Barcelona"
+    },
+    
+    "2" : {
+        "id" : 2,
+        "name" : "FC Bayern München",
+        "city" : "München"
+    },
+    
+    "3" : {
+        "id" : 3,
+        "name" : "Manchester United",
+        "city" : "Manchester"
+    },
+
+    "4" : {
+        "id" : 4,
+        "name" : "RB Leipzig",
+        "city" : "Lipcse"
+    },
+
+    "5" : {
+        "id" : 5,
+        "name" : "Paris Saint-Germain",
+        "city" : "Paris"
+    },
+
+    "6" : {
+        "id" : 6,
+        "name" : "Atletico Madrid",
+        "city" : "Madrid"
+    },
+
+    "7" : {
+        "id" : 7,
+        "name" : "AS Roma",
+        "city" : "Roma"
+    },
+
+    "8" : {
+        "id" : 8,
+        "name" : "Juventus",
+        "city" : "Torino"
+    },
+
+    "9" : {
+        "id" : 9,
+        "name" : "Liverpool",
+        "city" : "Liverpool"
+    },
+
+    "10" : {
+        "id" : 10,
+        "name" : "MOL Fehérvár FC (Videoton)",
+        "city" : "Székesfehérvár"
+    }
+}

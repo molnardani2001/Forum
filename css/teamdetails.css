@@ -1,0 +1,78 @@
+h1, div#playedGames h3, div#unplayedGames h3, div#comments h3{
+    text-align: center;
+}
+
+div#playedGames {
+    width: 50%;
+    float: left;
+    clear: both;
+}
+
+div#playedGames ul, div#unplayedGames ul {
+    padding-left: 15%;
+}
+
+li.match {
+    list-style-type: "⚽";
+}
+
+div#unplayedGames{
+    width: 50%;
+    float: right;
+}
+
+div#unplayedGames p{
+    text-align: center;
+}
+
+hr{
+    width: 90%;
+}
+
+div#comments {
+    clear: both;
+    width: 50%;
+    margin:auto;
+    margin-top: 250px;
+}
+
+div#comment {
+    margin-left: 10%;
+    margin-right: 10%;
+    border: 1px solid black;
+    margin-top: 10px;
+    overflow-wrap: break-word;
+}
+
+div#comment img{
+    float: left;
+    width: 35px;
+}
+
+p#username{
+    margin-top: 10px;
+}
+
+p#text{
+    margin-left: 5%;
+    margin-right: 10px;
+}
+
+div#user {
+    text-align: right;
+}
+
+h1{
+    float: left;
+    margin: auto;
+    margin-left: 35%;
+}
+
+a#return {
+    float: left;
+}
+
+div#comments form{
+    text-align: center;
+    margin-top: 50px;
+}

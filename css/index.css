@@ -1,0 +1,51 @@
+h1, div#description, div#teams h3, div#last_five_matches h3{
+    text-align: center;
+}
+
+div#teams {
+    width: 50%;
+    float: left;
+}
+
+div#last_five_matches {
+    width: 50%;
+    float: right;
+}
+
+div#teams ul {
+    padding-left: 25%;
+}
+
+div#last_five_matches ul {
+    padding-left: 15%;
+}
+
+hr {
+    width: 90%;
+}
+
+li.team, li.match {
+    list-style-type: "⚽";
+}
+
+li span {
+    padding-left: 13%;
+}
+
+li.match {
+    padding-top: 1rem;
+}
+
+div#registration{
+    text-align: right;
+}
+
+h1{
+    float: left;
+    margin:auto;
+    margin-left: 40%;
+}
+
+h2{
+    clear: both;
+}

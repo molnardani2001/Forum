@@ -1,0 +1,26 @@
+{
+    "1": {
+        "id": 1,
+        "username": "admin",
+        "email": "admin@elstadion.hu",
+        "password": "admin"
+    },
+    "2": {
+        "id": 2,
+        "username": "molnardani",
+        "email": "dani.molnar2001@gmail.com",
+        "password": "Danika2001"
+    },
+    "3": {
+        "id": 3,
+        "username": "chad",
+        "email": "chad@elstadion.hu",
+        "password": "GigaChad"
+    },
+    "4": {
+        "id": 4,
+        "username": "molnardani20",
+        "email": "almafa@gmail.com",
+        "password": "Danika2001"
+    }
+}
